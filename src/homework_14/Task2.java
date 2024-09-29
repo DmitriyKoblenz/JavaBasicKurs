@@ -8,6 +8,7 @@ public class Task2 {
                 sum += array[i];
             }
         }
+
         return sum;
     }
 }
