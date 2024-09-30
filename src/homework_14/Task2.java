@@ -8,7 +8,7 @@ public class Task2 {
                 sum += array[i];
             }
         }
-
+        git push -u origin master
         return sum;
     }
 }
