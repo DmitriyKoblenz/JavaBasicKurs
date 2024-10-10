@@ -17,8 +17,8 @@ public class MainApp {
         // car = null;
 
         // Но состояние объекта я могу изменить
-        car.setPowerPS(800);
-        System.out.println(car.toString());
+//        car.setPowerPS(800);
+//        System.out.println(car.toString());
 
         System.out.println(FinalDemo.PI);
         // Изменить значение константы не может ни один объект класса
